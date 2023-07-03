@@ -1,0 +1,14 @@
+casa
+flor
+mamadeira
+força
+nadar
+musica
+form
+data
+dados
+lua.txt
+lua-01.txt
+lua-02.txt
+lua-03.txt
+lua-04.txt
